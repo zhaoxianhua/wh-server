@@ -87,3 +87,6 @@ jwt token形式 --> jwt形式+redis存储
  		
 ## 该项目的升级版：
 https://github.com/smallsnail-wh/interest
+
+## 该项目的截图：
+https://blog.csdn.net/smollsnail/article/details/79025689
